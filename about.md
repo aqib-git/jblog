@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 show_feature: true
 description: Products are crafted in-house by hand, making each piece a labour of love and an exercise in craftsmanship.
+my_path: 
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
